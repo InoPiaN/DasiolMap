@@ -1,0 +1,6 @@
+[submodule "DasiolMap-server"]
+	path = DasiolMap-server
+	url = https://github.com/InoPiaN/DasiolMap-server.git
+[submodule "DasiolMap-client"]
+	path = DasiolMap-client
+	url = https://github.com/InoPiaN/DasiolMap-client.git
